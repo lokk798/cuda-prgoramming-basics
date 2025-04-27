@@ -1,0 +1,47 @@
+Exercise 1: Vector Addition Revisited
+
+CPU Time: 40.8343 ms
+GPU Time: 0.373562 ms
+Speedup: 109.311X
+
+
+Exercise 2: Element-wise Activation Function
+CPU time: 0.039645 seconds
+GPU time: 0.000295 seconds
+Speedup: 134.39X
+
+
+Exercise 3: Matrix-Vector Multiplication
+CPU time: 49.4944 ms
+GPU time: 1.93843 ms
+Speedup: 25.5332X
+
+
+Exercise 4: Vector Dot Product using Shared Memory
+CPU time: 49.2608 ms
+GPU time: 0.754944 ms
+Speedup: 65.251X
+
+
+Exercise 5: 1D Stencil Computation
+CPU Time = 1.576058 seconds
+GPU Time = 0.148482 seconds
+Speedup = 10.61x
+
+
+Exercise 6: Batched Euclidean Distance
+CPU time: 0.49512 seconds
+GPU time: 0.00635 seconds
+Speedup: 77.95X
+
+
+Exercise 7: Parallel Partial Argmax
+CPU time: 0.49825 seconds
+GPU time: 0.00784 seconds
+Speedup: 63.57X
+
+
+Exercise 8: Matrix Addition (2D Blocks/Threads)
+CPU time: 0.0722151 ms
+GPU time: 0.000565644 ms
+Speedup: 127.67x
